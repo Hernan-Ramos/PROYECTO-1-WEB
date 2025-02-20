@@ -1,0 +1,71 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+ 
+  body {
+    margin: 10px; 
+    background-color: #f0f0f0; 
+  }
+  
+  
+  .uno {
+    margin: 10px;              
+    padding: 30px;             
+    border: 5px solid brown;    
+    background-color: burlywood;
+  }
+  
+  
+  .dos {
+    margin: 10px;              
+    padding: 30px;              
+    border: 5px dashed cadetblue;
+    background-color: aliceblue;
+  }
+  
+  
+  .tres {
+    margin: 10px;
+    padding: 30px;
+    border: 5px dotted coral;
+    background-color: lavenderblush;
+  }
+  
+  
+  .cuatro {
+    margin: 10px;
+    padding: 30px;
+    border: 5px solid darkkhaki;
+    background-color: lightgoldenrodyellow;
+  }
+  
+ 
+  .cinco {
+    margin: 10px;
+    padding: 30px;
+    border: 5px dashed darkmagenta;
+    background-color: lightpink;
+  }
+  
+  
+  .seis {
+    margin: 10px;
+    padding: 30px;
+    border: 5px dotted lightslategray;
+    background-color: mintcream;
+  }
+  
+  
+  .siete {
+    margin: 10px;
+    padding: 30px;
+    border: 5px solid #666;
+    background-color: white;
+  }
+  h1{
+    text-align: center ;
+  }
